@@ -1,0 +1,137 @@
+
+
+var People ={
+			"Amy": [{
+				"Name": "Amy",
+				"Gender": "female",
+				"Age": 23,
+				"Location": "Amsterdam",
+			},
+			{
+				"Name": "Brad",
+				"Gender": "male",
+				"Age": 25,
+				"Location": "Toronto",
+			},
+			{
+				"Name": "Clara",
+				"Gender": "female",
+				"Age": 30,
+				"Location": "Berlin",
+			},
+			{
+				"Name": "Donald",
+				"Gender": "male",
+				"Age": 26,
+				"Location": "New York",
+			},
+			{
+				"Name": "Elena",
+				"Gender": "female",
+				"Age": 24,
+				"Location": "Rio di Janero",
+			},
+			{
+				"Name": "Frank",
+				"Gender": "male",
+				"Age": 27,
+				"Location": "Venice",
+			},
+			{
+				"Name": "Gigi",
+				"Gender": "female",
+				"Age": 22,
+				"Location": "California",
+			},
+			{
+				"Name": "Harry",
+				"Gender": "male",
+				"Age": 26,
+				"Location": "London",
+			},
+			{
+				"Name": "Isla",
+				"Gender": "female",
+				"Age": 23,
+				"Location": "Dublin",
+			},
+			{
+				"Name": "Jack",
+				"Gender": "male",
+				"Age": 25,
+				"Location": "Amsterdam",
+			},
+			{
+				"Name": "Karoline",
+				"Gender": "female",
+				"Age": 24,
+				"Location": "Vienna",
+			},
+			{
+				"Name": "Lenny",
+				"Gender": "male",
+				"Age": 29,
+				"Location": "Berlin",
+			},
+			{
+				"Name": "Maya",
+				"Gender": "female",
+				"Age": 29,
+				"Location": "Dublin",
+			},
+			{
+				"Name": "Nino",
+				"Gender": "male",
+				"Age": 26,
+				"Location": "Rome",
+			},
+			{
+				"Name": "Olga",
+				"Gender": "female",
+				"Age": 29,
+				"Location": "Warsaw",
+			},
+			{
+				"Name": "Paul",
+				"Gender": "male",
+				"Age": 30,
+				"Location": "London",
+			},
+			{
+				"Name": "Quinn",
+				"Gender": "female",
+				"Age": 31,
+				"Location": "California",
+			},
+			{
+				"Name": "Rudi",
+				"Gender": "male",
+				"Age": 29,
+				"Location": "Vienna",
+			},
+			{
+				"Name": "Sarah",
+				"Gender": "female",
+				"Age": 28,
+				"Location": "Toronto",
+			},
+			{
+				"Name": "Theo",
+				"Gender": "male",
+				"Age": 23,
+				"Location": "New York",
+			}
+			]};
+for (var i = 0; i<People.length; i++){
+	console.log(People[i]);
+}
+
+
+/*function allPeople(name, gender, age, location){
+	this.Name = name;
+	this.Gender = gender;
+	this.Age = age;
+	this. Location = location;
+}
+
+console.log(People.name);*/
